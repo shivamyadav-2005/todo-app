@@ -1,18 +1,31 @@
-# To-Do List App 📝
+# 📝 To-Do List App
 
-A clean and responsive To-Do List App built using **HTML, CSS, and JavaScript**.
+A modern, responsive To-Do List application with smooth animations, interactive hover effects, and mobile-friendly layout.
 
-### ✨ Features
-- ➕ Add new tasks easily  
-- ✅ Mark tasks as completed  
-- ❌ Delete tasks instantly  
-- 💾 Automatically saves your data using LocalStorage  
-- 📱 Fully responsive design for mobile and desktop
+## ✨ Features
+- ✅ Add, delete, and mark tasks as complete
+- 🎨 Smooth hover effects on tasks and delete buttons
+- 🪄 Animated task entry and checked effect
+- 📱 Responsive design for mobile devices
+- 💾 Persistent storage using LocalStorage
 
-### 🚀 Live Demo
-https://shivamyadav-2005.github.io/todo-app/
+## 🖼 Screenshot
+![To-Do App Screenshot](images/todo-screenshot.png)
 
-### 🛠️ Technologies Used
-- HTML5  
-- CSS3  
-- JavaScript (DOM + LocalStorage)
+## 🚀 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shivamyadav-2005/todo-app.git
+Open index.html in your browser.
+
+Start adding your tasks!
+
+🌐 Live Demo
+View Live Demo
+
+🛠 Technologies Used
+HTML
+
+CSS (Flexbox, Animations, Hover Effects)
+
+JavaScript (DOM Manipulation, LocalStorage)
