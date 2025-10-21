@@ -10,7 +10,7 @@ A modern, responsive To-Do List application with smooth animations, interactive 
 - 💾 Persistent storage using LocalStorage
 
 ## 🖼 Screenshot
-![To-Do App Screenshot](images/todo-screenshot.png)
+![To-Do App Screenshot](images/todoapp.png)
 
 ## 🚀 How to Use
 1. Clone the repository:
