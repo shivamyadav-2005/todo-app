@@ -28,12 +28,12 @@ Open index.html in your browser.
 
 Start adding your tasks!
 
-🌐 Live Demo
-View Live Demo
-
 🛠 Technologies Used
 HTML
 
 CSS (Flexbox, Animations, Hover Effects)
 
 JavaScript (DOM Manipulation, LocalStorage)
+
+✍️ Author
+Shivam Yadav
