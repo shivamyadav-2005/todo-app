@@ -11,7 +11,15 @@ A modern, responsive To-Do List application with smooth animations, interactive 
 
 ## 🖼 Screenshot
 ![To-Do App Screenshot](images/todoapp.png)
+---
 
+### 🚀 Live Demo
+[View Live Demo](https://shivamyadav-2005.github.io/todo-app/)
+
+### 📂 Project Repository
+[View on GitHub](https://github.com/shivamyadav-2005/todo-app)
+
+---
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
